@@ -15,3 +15,7 @@ Directory Tree
   * viewController : v.c. related stuff
 * pods : firebase related stuff
 * storyboard : storyboard source code
+
+Snapshot
+---
+[click for ios snapshot](https://www.dropbox.com/sh/773nsgslrk70p2s/AADrLWfSdR05ObQ40edOF-gka "ios's snapshot")
