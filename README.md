@@ -18,4 +18,4 @@ Directory Tree
 
 Snapshot
 ---
-[click for ios snapshot](https://www.dropbox.com/sh/773nsgslrk70p2s/AADrLWfSdR05ObQ40edOF-gka "ios's snapshot")
+[click me for ios snapshot](https://www.dropbox.com/sh/773nsgslrk70p2s/AADrLWfSdR05ObQ40edOF-gka "ios's snapshot")
