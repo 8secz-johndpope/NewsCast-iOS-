@@ -1,0 +1,16 @@
+# https://www.youtube.com/watch?v=MuMZZtQpB6Y
+
+platform :ios, '11.0'
+
+target 'NewsCast' do
+  
+use_frameworks!
+
+#pod 'SwiftSVG', '~> 2.2.1'
+pod 'SwiftSoup'
+pod 'Toast-Swift', '~> 4.x.x'
+pod 'Firebase/Core'
+pod 'Firebase/Auth'
+pod 'Firebase/Storage'
+
+end
