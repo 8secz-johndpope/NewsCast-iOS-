@@ -1,6 +1,7 @@
 `NewsCast iOS version`
 ===
-      this is for xcode11 and swift 4.x.
+      Xcode 11 and Swift 4.x.
+      Simulation Ready!
 
 Directory Tree
 ---
