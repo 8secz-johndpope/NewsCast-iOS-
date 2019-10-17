@@ -1,7 +1,7 @@
 `NewsCast iOS version`
 ===
       Xcode 11 and Swift 4.x.
-      Simulation Ready!
+      Simulation Ready (except for Firebase).
 
 Directory Tree
 ---
